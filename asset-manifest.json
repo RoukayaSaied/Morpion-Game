@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Morpion-Game/static/css/main.98113401.chunk.css",
+    "main.js": "/Morpion-Game/static/js/main.380c839e.chunk.js",
+    "main.js.map": "/Morpion-Game/static/js/main.380c839e.chunk.js.map",
+    "runtime-main.js": "/Morpion-Game/static/js/runtime-main.8e854936.js",
+    "runtime-main.js.map": "/Morpion-Game/static/js/runtime-main.8e854936.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Morpion-Game/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d93aa206.chunk.js": "/Morpion-Game/static/js/2.d93aa206.chunk.js",
+    "static/js/2.d93aa206.chunk.js.map": "/Morpion-Game/static/js/2.d93aa206.chunk.js.map",
+    "index.html": "/Morpion-Game/index.html",
+    "precache-manifest.cf3fa86439f23313e2ae5fcf55101f81.js": "/Morpion-Game/precache-manifest.cf3fa86439f23313e2ae5fcf55101f81.js",
+    "service-worker.js": "/Morpion-Game/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Morpion-Game/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.98113401.chunk.css.map": "/Morpion-Game/static/css/main.98113401.chunk.css.map",
+    "static/js/2.d93aa206.chunk.js.LICENSE": "/Morpion-Game/static/js/2.d93aa206.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e854936.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d93aa206.chunk.js",
+    "static/css/main.98113401.chunk.css",
+    "static/js/main.380c839e.chunk.js"
+  ]
+}
