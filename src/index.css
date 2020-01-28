@@ -1,13 +1,18 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font: 20px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+    color: #0ccac4;
+    background: url("https://www.alc.edu/wp-content/uploads/2017/11/xmas-white-backgrounds-wallpapers.jpg") no-repeat center center fixed;
+    /*background: linear-gradient(
+            to bottom,
+            rgba(7, 27, 82, 1) 0%,
+            rgba(0, 128, 128, 1) 50%
+    );*/
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
+
+

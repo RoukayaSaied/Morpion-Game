@@ -1,0 +1,38 @@
+ol, ul {
+    padding-left: 50px;
+    font-weight:bold;
+    color: #0ccac4;
+}
+
+.status {
+    margin-bottom: 10px;
+}
+
+.game {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 100%;
+    margin: 80px auto;
+}
+
+.game-info {
+    margin-left: 20px;
+    width: 50%;
+    margin:  90px auto;
+}
+.title {
+    font-family: Bigelow Rules;
+    font-size: 150px;
+    color: #0ccac4;
+    text-align: center;
+    font-weight:bold;
+}
+.subtitle {
+    font-family: Bigelow Rules;
+    font-size: 60px;
+    color: #0ccac4;
+    text-align: center;
+}
+
+

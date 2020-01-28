@@ -1,0 +1,23 @@
+.square {
+    background: #95dada;
+    border: 1px solid #0ccac4;
+    float: left;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 68px;
+    height: 68px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 68px;
+    font-family: Bigelow Rules;
+}
+
+.square:focus {
+    outline: none;
+}
+
+.kbd-navigation .square:focus {
+    background: #ddd;
+}
