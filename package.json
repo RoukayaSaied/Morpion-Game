@@ -2,7 +2,7 @@
   "name": "morpion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RoukayaSaied.github.io",
+  "homepage": "https://roukayasaied.github.io/Morpion-Game",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
